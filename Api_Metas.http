@@ -1,0 +1,6 @@
+@Api_Metas_HostAddress = http://localhost:5210
+
+GET {{Api_Metas_HostAddress}}
+Accept: application/json
+
+###
